@@ -1,0 +1,6 @@
+/usr/local/workspaces/AMBParcs/src/main/java/com/ibm/amb/parcs/model/Parcs.java
+/usr/local/workspaces/AMBParcs/src/main/java/com/ibm/amb/parcs/service/impl/ParcsServiceImpl.java
+/usr/local/workspaces/AMBParcs/src/main/java/com/ibm/amb/parcs/repository/ParcsRepository.java
+/usr/local/workspaces/AMBParcs/src/main/java/com/ibm/amb/parcs/Application.java
+/usr/local/workspaces/AMBParcs/src/main/java/com/ibm/amb/parcs/service/ParcsService.java
+/usr/local/workspaces/AMBParcs/src/main/java/com/ibm/amb/parcs/controller/ParcsController.java

@@ -1,0 +1,6 @@
+com/ibm/amb/parcs/service/impl/ParcsServiceImpl.class
+com/ibm/amb/parcs/service/ParcsService.class
+com/ibm/amb/parcs/Application.class
+com/ibm/amb/parcs/repository/ParcsRepository.class
+com/ibm/amb/parcs/model/Parcs.class
+com/ibm/amb/parcs/controller/ParcsController.class
